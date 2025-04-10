@@ -21,7 +21,11 @@ Ao clicar no link no canto superior direito da tela, acima do container principa
 ![screencapture-localhost-curso-game-library-addGame-php-2025-04-10-18_18_51](https://github.com/user-attachments/assets/fb08f206-70e1-4df0-b828-ac84b2f14cd2)
 
 Após efetuar o cadastro do jogo, o usuário será retornado para a tela inicial, com o jogo que foi cadastrado no banco, a partir dai, ele terá 4 opções, sendo elas, visualizar, editar, excluir e atribuir uma nota ao jogo.
-![screencapture-localhost-curso-curso-php-Projetos-game-library-2025-04-10-18_21_53](https://github.com/user-attachments/assets/009bcfee-2712-4e68-b734-8a02fc7391aa)
+![screencapture-localhost-curso-curso-php-Projetos-game-library-index-php-2025-04-10-18_45_04](https://github.com/user-attachments/assets/f0eda1fa-7072-4482-ae20-2bfdeeee4a53)
+
+Clicando em uma das estrelas, atribuimos uma nota para o jogo.
+![screencapture-localhost-curso-curso-php-Projetos-game-library-2025-04-10-18_21_53](https://github.com/user-attachments/assets/b84d76f9-bd33-4677-ac4c-058bef692278)
+
 
 Clicando no botão de visualizar(lupa), temos acesso a tela que trás todas as informações do jogo, em uma escala maior desta vez, com algumas mensagens pré-definidas de acordo com a nota do usuário.![screencapture-localhost-curso-curso-php-Projetos-game-library-gameview-php-2025-04-10-18_23_24](https://github.com/user-attachments/assets/c06c0608-1c39-4003-a318-1da5ffbf5bb7)
 
