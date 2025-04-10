@@ -36,10 +36,13 @@ E por último, clicando na opção com a lixeira, excluimos o jogo da base de da
 ![screencapture-localhost-curso-curso-php-Projetos-game-library-index-php-2025-04-10-18_25_10](https://github.com/user-attachments/assets/016dbecb-14cc-4d72-acee-bca8cbf2ac69)
 
 Abaixo também estou disponibilizando prints do mesmo sistema na versão mobile:
+
+
 ![screencapture-localhost-curso-curso-php-Projetos-game-library-index-php-2025-04-10-18_46_38](https://github.com/user-attachments/assets/0cbb058f-df47-480d-b923-d7ba6d1f3e7b)
 ![screencapture-localhost-curso-curso-php-Projetos-game-library-addGame-php-2025-04-10-18_46_52](https://github.com/user-attachments/assets/12b79cf1-10ce-49e3-83f5-6be26fa26c71)
 ![screencapture-localhost-curso-curso-php-Projetos-game-library-index-php-2025-04-10-18_47_07](https://github.com/user-attachments/assets/4647aa15-616f-4520-91e6-a98ef934dc63)
-![screencapture-localhost-curso-game-library-gameBox-gameview-php-2025-04-10-18_53_52](https://github.com/user-attachments/assets/a51716e3-e684-457e-82fb-47746432e2f7)
+![screencapture-localhost-curso-game-library-gameBox-index-php-2025-04-10-18_56_53](https://github.com/user-attachments/assets/cd4bb081-2daa-4e66-b6aa-97e456579fa4)
+![screencapture-localhost-curso-game-library-gameBox-gameview-php-2025-04-10-18_58_25](https://github.com/user-attachments/assets/96296f48-d790-4616-98a4-897f230197e7)
 ![screencapture-localhost-curso-game-library-gameBox-editgame-php-2025-04-10-18_54_01](https://github.com/user-attachments/assets/525cd456-4282-4114-88f3-cfba42eaa09a)
 ![screencapture-localhost-curso-game-library-gameBox-index-php-2025-04-10-18_54_11](https://github.com/user-attachments/assets/c079c7db-c26f-40d6-82d3-0f96ac05e9bc)
 
