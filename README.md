@@ -28,5 +28,5 @@ Clicando no botão de visualizar(lupa), temos acesso a tela que trás todas as i
 Clicando no botão de editar, somos levados ao formulário, que trás a opção de atualizarmos a foto, o título e a descrição do jogo.
 ![screencapture-localhost-curso-curso-php-Projetos-game-library-editgame-php-2025-04-10-18_23_48](https://github.com/user-attachments/assets/6aa339bc-3719-4a0f-878b-3b62ce64b79d)
 
-E por último, clicando na opção, excluimos o jogo da base de dados.
+E por último, clicando na opção com a lixeira, excluimos o jogo da base de dados.
 ![screencapture-localhost-curso-curso-php-Projetos-game-library-index-php-2025-04-10-18_25_10](https://github.com/user-attachments/assets/016dbecb-14cc-4d72-acee-bca8cbf2ac69)
