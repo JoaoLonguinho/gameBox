@@ -288,4 +288,10 @@ main {
     .header-link{
         margin-bottom: 20px;
     }
+    .img-cover, .game-content{
+        width: 100%;
+    }
+    .img-cover img{
+        width: 100px;
+    }
 }
