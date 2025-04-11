@@ -14,6 +14,10 @@ $gameDao = new GameDao($conn);
 
 $game = $gameDao->bringSelectedGame($gameId);
 
+if($game->rating == null){
+    $game->rating = 0;
+}
+
 
 ?>
 
@@ -33,18 +37,19 @@ $game = $gameDao->bringSelectedGame($gameId);
         <div class="game-info">
             <h2><?= $game->title; ?></h2>
             <p><?= $game->description; ?></p>
-            <p>Atualmente o jogo está rankeado em <?= $game->rating ?> estrelas,
                 <?php if ($game->rating == 5): ?>
-                    sendo assim, é um jogo que podemos dizer que recomendamos bastante!
+                    Atualmente o jogo está rankeado em <?= $game->rating ?> estrelas, sendo assim, é um jogo que podemos dizer que recomendamos bastante!
                 </p>
             <?php elseif ($game->rating == 4): ?>
-                sendo assim, ainda é considerado um ótimo jogo!</p>
+                Atualmente o jogo está rankeado em <?= $game->rating ?> estrelas, sendo assim, ainda é considerado um ótimo jogo!</p>
             <?php elseif ($game->rating == 3): ?>
-                sendo assim, podemos dizer que é um jogo mais ou menos</p>
+                Atualmente o jogo está rankeado em <?= $game->rating ?> estrelas, sendo assim, podemos dizer que é um jogo mais ou menos</p>
             <?php elseif ($game->rating == 2): ?>
-                sendo assim, podemos dizer que não é um jogo muito bom </p>
+                Atualmente o jogo está rankeado em <?= $game->rating ?> estrelas, sendo assim, podemos dizer que não é um jogo muito bom </p>
             <?php elseif ($game->rating == 1): ?>
-                sendo assim, é um jogo ruim </p>
+                Atualmente o jogo está rankeado em <?= $game->rating ?> estrelas, sendo assim, é um jogo ruim </p>
+            <?php else: ?>
+                Este jogo ainda não foi avaliado.
             <?php endif; ?>
         </div>
     </div>
